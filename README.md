@@ -8,3 +8,6 @@ Based on the data collected, campaings launched in May had the highest success r
 
 ![image_name](https://github.com/lucymccanna/kickstarter-analysis/blob/main/Outcomes%20Based%20on%20Launch%20Date%20-%20Theater-Plays.png)
 
+The successful campaigns launched in April had the highest average amount Pledged at $9359, followed by September at $8448. The month with the lowest average amount pledged was December at $3770.
+
+![image_name](https://github.com/lucymccanna/kickstarter-analysis/blob/main/Average%20Pledged%20by%20Launch%20Date.png)
