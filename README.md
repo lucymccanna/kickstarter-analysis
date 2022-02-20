@@ -35,6 +35,6 @@ Looking at the data for all theater campaigns, those with goals under $5,000 had
 
 A limitation of the dataset is that the currency for the goal and pledge dollar amounts vary across each campaign. To accurately analyze the outcomes based on goals, the dollar amounts should be converted to a single currency. Another limitation is that the plays are not identified by genre. If Louise could analyze the data for plays with the same genre as her play, Fever, she may be able to identify different trends in the successful campaigns most similar to hers to help maximize her crowdfunding.  
 
-Another Pivot Table/graph we could create to support our analysis is one that shows the total number of outcomes based on the duration of the campaign. 
+Another Pivot Table/graph that could be created to support this analysis is one that shows the total number of outcomes based on the duration of the campaign. 
 
 
